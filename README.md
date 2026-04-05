@@ -1,4 +1,1 @@
-### My Base Journey 🔵
-- 🚀 **Airdrop Farming:** Currently active in 20+ projects.
-- ⚙️ **Network:** Base Mainnet.
-- 🛠️ **Status:** Testing dApps, maintaining nodes, and exploring the ecosystem.
+git commit -m "feat: integrate base network smart contracts and optimize airdrop scripts"
