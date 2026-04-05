@@ -1,1 +1,2 @@
-git commit -m "feat: integrate base network smart contracts and optimize airdrop scripts"
+git commit -m "docs: update base testnet task list and reward distribution logic"
+
