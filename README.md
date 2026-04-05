@@ -1,2 +1,2 @@
-git commit -m "docs: update base testnet task list and reward distribution logic"
+git commit -m "refactor: optimize node interaction scripts and update testnet provider configs"
 
