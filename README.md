@@ -1,2 +1,4 @@
-
-​"Great to see the continuous development on this project! I'm currently testing this as part of my Base ecosystem exploration. Everything looks solid so far. Keep up the good work! 
+### My Base Journey 🔵
+- 🚀 **Airdrop Farming:** Currently active in 20+ projects.
+- ⚙️ **Network:** Base Mainnet.
+- 🛠️ **Status:** Testing dApps, maintaining nodes, and exploring the ecosystem.
