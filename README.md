@@ -1,1 +1,1 @@
-"Initial configuration for Base network integration
+"Update README with Base Mainnet RPC and explorer details."
