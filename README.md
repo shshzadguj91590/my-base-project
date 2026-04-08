@@ -1,6 +1,1 @@
-{
-  "network": "Base",
-  "chainId": 8453,
-  "rpcUrl": "https://mainnet.base.org",
-  "explorer": "https://basescan.org"
-}
+"Initial configuration for Base network integration
