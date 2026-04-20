@@ -1,1 +1,4 @@
-fix: re-validate Base network address and sync status
+
+* Setup folder structure for smart contracts.
+​Added hardhat.config.js for deployment.
+​Initialized README.md with project overview
