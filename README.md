@@ -1,1 +1,1 @@
-git commit -m "Update: Base network on-chain activity"
+date >> activity.txt && git add . && git commit -m "chore: daily activity"
