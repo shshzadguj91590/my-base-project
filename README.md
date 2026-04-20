@@ -1,1 +1,2 @@
-​"Strengthening my on-chain presence on Base. It’s becoming my go-to network for exploring new opportunities and testing protocols. The development growth here is truly impressive. Happy to be part of this journey
+​Commit Message:
+chore: update Base network RPC and optimize node sync latency
