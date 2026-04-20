@@ -1,1 +1,1 @@
-feat: perform daily on-chain interaction for Base reputation boost
+fix: re-validate Base network address and sync status
