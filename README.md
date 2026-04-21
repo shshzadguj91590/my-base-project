@@ -1,3 +1,3 @@
-docs: update Base airdrop timeline & add new Season 2 farming tricks with latest contract addresses
-Latest official updates aur hidden farming methods add kiye hain jo abhi 2026 mein chal rahe hain.
-Agar tum in commits ko apne repo mein daalna chahte ho to bas yeh commands use karo (assuming repo already clone kiya hua hai):
+git commit -m "feat(docs): add complete Base airdrop farming guide with eligibility criteria & gas optimization tips"
+git commit -m "chore(scripts): integrate latest Base mainnet RPC & wallet connection for airdrop eligibility checker"
+git commit -m "docs: update Base airdrop timeline & add new Season 2 farming tricks with latest contract addresses"
