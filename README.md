@@ -1,1 +1,2 @@
-git commit -m "fix: improve base gas fee optimization logic
+:
+git commit -m "feat: deploy base ecosystem testnet contract
