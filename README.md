@@ -1,1 +1,1 @@
-git commit -m "chore: sync base mainnet node configuration
+git commit -m "fix: improve base gas fee optimization logic
