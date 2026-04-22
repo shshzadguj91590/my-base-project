@@ -1,1 +1,1 @@
-git commit -m "feat: enhance base layer-2 bridge communication
+git commit -m "chore: sync base mainnet node configuration
