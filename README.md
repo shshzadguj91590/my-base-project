@@ -1,2 +1,1 @@
-:
-git commit -m "feat: deploy base ecosystem testnet contract
+git commit -m "refactor: optimize base smart contract interactions
