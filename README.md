@@ -1,1 +1,1 @@
-git commit -m "refactor: optimize base smart contract interactions
+​git commit -m "fix: resolve base network latency in contract calls
