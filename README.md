@@ -1,2 +1,2 @@
 :
-git commit -m "feat: implement automated verification scripts for base network
+git commit -m "perf: optimize data processing speed for base chain indexer
