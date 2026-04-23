@@ -1,2 +1,2 @@
 :
-git commit -m "perf: optimize data processing speed for base chain indexer
+git commit -m "fix: resolve sync issues in base transaction indexer
