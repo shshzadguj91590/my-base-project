@@ -1,2 +1,1 @@
-:
-git commit -m "fix: resolve sync issues in base transaction indexer
+​feat: integrate @base network RPC for on-chain interactions
