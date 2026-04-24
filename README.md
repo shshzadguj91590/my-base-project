@@ -1,2 +1,1 @@
-
-​refactor: optimize transaction gas settings for @base network
+feat: implement auto-ping mechanism for @base node synchronization
