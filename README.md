@@ -1,1 +1,1 @@
-​feat: integrate @base network RPC for on-chain interactions
+chore: deploy smart contracts to @base mainnet/testnet
