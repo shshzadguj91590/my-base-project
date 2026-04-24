@@ -1,1 +1,2 @@
-chore: deploy smart contracts to @base mainnet/testnet
+
+​refactor: optimize transaction gas settings for @base network
