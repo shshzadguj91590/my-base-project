@@ -1,1 +1,1 @@
-1. feat: add auto-ping for @base node health checks and sync
+2. feat: implement periodic ping to maintain @base node synchronization
