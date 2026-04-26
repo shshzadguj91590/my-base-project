@@ -1,1 +1,1 @@
-2. feat: implement periodic ping to maintain @base node synchronization
+feat: introduce auto-ping mechanism to detect stale @base nodes
