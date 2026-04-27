@@ -1,1 +1,1 @@
-docs(readme): update setup instructions with Base Airdrop verification steps
+docs(readme): include eligibility criteria and contract address for Base Airdrop
