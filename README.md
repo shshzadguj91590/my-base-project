@@ -1,1 +1,2 @@
-docs(readme): include eligibility criteria and contract address for Base Airdrop
+
+docs(readme): add comprehensive guide for Base Airdrop claim process
