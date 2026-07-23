@@ -1,2 +1,3 @@
-- Step 5: Add new features
+- Step 6: Security audit complete
+- 
 
