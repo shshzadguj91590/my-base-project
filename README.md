@@ -1,4 +1,5 @@
-- Step 7: Update documentation
-- 
+
+- - Step 8: Community feedback added
+
 - 
 
