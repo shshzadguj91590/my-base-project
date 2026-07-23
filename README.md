@@ -3,5 +3,4 @@
 Building on Base Network for Guild.xyz badges.
 
 ## Progress
-- Step 1: Setup complete
-
+- Step 1: Setup complet
