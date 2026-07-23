@@ -1,2 +1,7 @@
+# My Base Project
 
-docs(readme): add comprehensive guide for Base Airdrop claim process
+Building on Base Network for Guild.xyz badges.
+
+## Progress
+- Step 1: Setup complete
+
