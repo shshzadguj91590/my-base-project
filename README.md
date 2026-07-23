@@ -1,1 +1,2 @@
-- Step 4: Optimize gas usage
+- Step 5: Add new features
+
