@@ -1,5 +1,4 @@
 
-- - Step 8: Community feedback added
-
 - 
+- Step 9: Final testing phase
 
