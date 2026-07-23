@@ -1,4 +1,3 @@
 
-- 
-- Step 9: Final testing phase
+- Step 10: Ready for Guild.xyz
 
