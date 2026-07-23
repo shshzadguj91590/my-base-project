@@ -1,3 +1,4 @@
-- Step 6: Security audit complete
+- Step 7: Update documentation
+- 
 - 
 
